@@ -1,0 +1,16 @@
+1630448743033	geckodriver	INFO	Listening on 127.0.0.1:55299
+1630448744061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/k9/qk0rd8xn3pl85rfw68yqvqcm0000gn/T/rust_mozprofileP0u4H9"
+1630448744712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/k9/qk0rd8xn3pl85rfw68yqvqcm0000gn/T/rust_mozprofileP0u4H9/search.json.mozlz4", (void 0)))
+1630448746511	Marionette	INFO	Listening on port 55306
+1630448746567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630448748710	Marionette	INFO	Stopped listening on port 55306
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1630448750628	geckodriver	INFO	Listening on 127.0.0.1:55339
+1630448751648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/k9/qk0rd8xn3pl85rfw68yqvqcm0000gn/T/rust_mozprofile9rRzPo"
+1630448752093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/k9/qk0rd8xn3pl85rfw68yqvqcm0000gn/T/rust_mozprofile9rRzPo/search.json.mozlz4", (void 0)))
+1630448753426	Marionette	INFO	Listening on port 55346
+1630448753526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630448765501	Marionette	INFO	Stopped listening on port 55346
